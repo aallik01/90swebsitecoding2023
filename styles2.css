@@ -1,0 +1,64 @@
+* {
+  background-color: rgb(146, 24, 5);
+    margin: 5;
+    
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+th {
+    border: 5px solid #787373;
+    text-align: left;
+    padding: 6px;
+  }
+
+.attack.info{
+    display: inline-block;
+    border: 5px solid black;
+    width: 220px;
+    height: 220px;
+    position: relative;
+    top: 160px;
+    z-index: 1;
+    font-size: 35px;
+    text-align: center;
+}
+
+
+.defense.info{
+    display: inline-block;
+    border: 5px solid black;
+    width: 220px;
+    height: 220px;
+    position: relative;
+    left: 600px;
+    bottom: 70px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.punishing.info{
+    display: inline-block;
+    border: 5px solid black;
+    width: 220px;
+    height: 220px;
+    position: relative;
+    left: 1225px;
+    bottom: 290px;
+    font-size: 35px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+.pic{
+    position: relative;
+    left:355px;
+    bottom: 200px;
+}

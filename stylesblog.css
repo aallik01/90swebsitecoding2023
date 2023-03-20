@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(146, 24, 5);
+    }
+h1 {
+font-size: 20px;
+border: 5px solid;
+    }
+
+h1.cody{
+    font-size: 20px;
+border: 5px solid rgb(0, 0, 112);
+}
+
+h1.james{
+    font-size:20px;
+    border: 5px solid purple;
+}
+
+table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+      }
+    
+    th {
+        border: 5px solid #787373;
+        text-align: left;
+        padding: 6px;
+      }
